@@ -9,7 +9,8 @@ import (
 	"sort"
 	"strconv"
 
-	"sample.com/wol"
+	"github.com/kkonat/WoL/Internal/wol"
+	//"../wol"
 )
 
 func main() {
